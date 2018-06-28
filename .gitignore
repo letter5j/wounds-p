@@ -89,4 +89,8 @@ ENV/
 # Rope project settings
 .ropeproject
 
+
+# custom
 model.pth
+
+uploads/
